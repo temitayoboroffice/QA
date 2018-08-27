@@ -1,0 +1,4 @@
+class SingleWithdrawalModalLabels():
+
+    LBL_CHANGE_SINGLE_WITHDRAWAL_MODAL_SAVE_CHANGES = 'Save Changes'
+    LBL_CHANGE_SINGLE_WITHDRAWAL_MODAL_CANCEL = 'Cancel'
